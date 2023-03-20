@@ -1,0 +1,292 @@
+.body{
+    overflow: hidden;
+}
+
+.ss
+{
+    color: white;
+    font-size: 200px;
+    padding-left: 80px;
+}
+.s1
+{
+    border: 0px white solid;
+    background-color: gray;
+}
+.p1
+{
+    color: blue;
+    width: 100%;
+    padding-left: 80px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p2
+{
+text-align: center;
+text-align: justify;
+font-size: 24px; 
+width: 50%;
+padding-left: 80px;
+font-family: 'Times New Roman', Times, serif;
+}
+.miss
+{
+    color: blue;
+    font-size: 50px;
+    padding-left: 175px;
+}
+.p3
+{
+    text-align: center;
+    text-align: justify;
+    font-size: 20px;
+    width: 20%;
+    padding-left: 175px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.b
+{
+    text-align: right;
+    color: blue;
+    font-size: 55px;
+    padding-right: 550px;
+    display: flex;
+}
+.p4
+{
+    text-align: justify;
+    font-size: 24px;
+    padding-right: 350px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+}
+.fondimage
+{
+    background-color: rgb(182, 182, 182);
+    width: 800px;
+    height: 600px;
+    bottom: 500px;
+    top: 200px;
+}
+.p5
+{
+    text-align: justify;
+    font-size: 30px;
+    padding-left: 100px;
+    width: 55%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fd
+{
+    background-color: blue;
+    width: 1000px;
+    height: 400px;
+}
+.p6
+{
+    text-align: justify;
+    font-size: 30px;
+    padding-left: 1000px;
+    width: 40%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.eu
+{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.s2{
+    position: relative;
+}
+.afleche
+{
+    position: relative;
+    font-size: 50px;
+}
+.fleche
+{
+    font-size: 100px;
+}
+.misset
+{
+    position: relative;
+    bottom: 500px;
+    top: 200;
+    margin-left: 200px;
+    font-size: 125px;
+    color: blue;
+}
+.dmis
+{
+    border: 1px solid blue;
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 100px;
+    position: relative;
+    bottom: 700px;
+    margin-left: 200px;
+    margin-top: 300px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding: 15px;
+}
+.img4
+{
+    position: relative;
+    bottom: 750px;
+    left: 1000px;
+}
+.p7
+{
+    position: absolute;
+    font-size: 30px;
+    bottom: 300px;
+    text-align: justify;
+    padding-right: 900px;
+    width: 40%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p8
+{
+    /* position: relative; */
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+.res
+{
+    position: relative;
+    border: Opx white solid;
+    background-color: gray;
+    bottom: 300px;
+    padding: 200px;
+}
+.rencontrez
+{
+    position: relative;
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+.chef1
+{
+    position: relative;
+    margin-left: 250px;
+    bottom: 15px;
+}
+.chef2
+{
+    position: relative;
+    margin-left: 1000px;
+    bottom: 50px;
+}
+.cleo
+{
+    position: relative;
+    margin-left: 245px;
+    bottom: 125px;
+    font-size: 25px;
+}
+.lupi
+{
+    position: relative;
+    margin-left: 1000px;
+    bottom: 70px;
+    font-size: 25px;
+}
+.pcleo
+{
+    position: relative;
+    margin-left: 210px;
+    bottom: 145px;
+}
+.plupi
+{
+position: relative;
+margin-left: 1000px;
+bottom: 210px;
+}
+.solution
+{
+    position: relative;
+    font-size: 200px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    bottom: 200px;
+}
+.exemple
+{
+    position: relative;
+    margin-left: 50px;
+    bottom: 400px;
+}   
+.elegance
+{
+    position: relative;
+    margin-left: 50px;
+    bottom: 400px;
+    font-size: 30px;
+    color: blue;
+}
+.pgauche
+{
+    position: relative;
+    margin-left: 55px;
+    bottom: 400px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    /* padding-left: 500px; */
+    padding-right: 800px;
+}
+.pdroite
+{
+    position: relative;
+    bottom: 700px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    padding-left: 800px;
+}
+.bouton2
+{
+    border: opx solid blue;
+    background-color: blue;
+    font-size: 20px;
+    width: 75px;
+    height: 15px;
+    text-align: center;
+    position: relative;
+    bottom: 675px;
+    margin-left: 800px;
+    /* margin-top: 200px; */
+    padding-right: 5px;
+    padding-left: 5px;
+    padding: 15px;
+}
+.sec4
+{
+    position: relative;
+    border: 0px white solid;
+    background-color: gray;
+    /* bottom: 100px; */
+    padding: 5px;
+    height: 800px;
+}
+.black
+{
+    border: Opx solid black;
+    background-color: black;
+}
+.nous
+{
+    color: blue;
+    font-size: 50px;
+}
