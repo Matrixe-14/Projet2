@@ -1,7 +1,12 @@
+html{
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: 100%;
+}
 .body{
     overflow: hidden;
 }
-
 .ss
 {
     color: white;
@@ -11,7 +16,7 @@
 .s1
 {
     border: 0px white solid;
-    background-color: gray;
+    background-color:#d9d9d9;
 }
 .p1
 {
@@ -63,7 +68,7 @@ font-family: 'Times New Roman', Times, serif;
 }
 .fondimage
 {
-    background-color: rgb(182, 182, 182);
+    background-color: #d9d9d9;
     width: 800px;
     height: 600px;
     bottom: 500px;
@@ -163,7 +168,7 @@ font-family: 'Times New Roman', Times, serif;
 {
     position: relative;
     border: Opx white solid;
-    background-color: gray;
+    background-color: #d9d9d9;
     bottom: 300px;
     padding: 200px;
 }
@@ -275,18 +280,73 @@ bottom: 210px;
 {
     position: relative;
     border: 0px white solid;
-    background-color: gray;
+    background-color: #d9d9d9;
     /* bottom: 100px; */
     padding: 5px;
     height: 800px;
 }
 .black
-{
+{   position: relative;
     border: Opx solid black;
     background-color: black;
+    margin-top: 100px;
+    padding: 50px;
 }
 .nous
 {
     color: blue;
     font-size: 50px;
+    margin-left: 20px;
+    width: 5px;
+    height: 5px;
 }
+.sample
+{
+    color: white;
+    text-align: center;
+}
+.last
+{
+    background-color: #d9d9d9;
+    width: 300px; 
+    margin-left: 1000px;
+}
+.imgP
+{
+    border-radius: 200px;
+    margin-right: 60px;
+}
+.def
+{
+    margin-right: 50px;
+}
+.t2
+{
+    height: 5px;
+    background-color: black;
+}
+.icones1
+{
+    position: relative;
+    margin-left: 250px;
+    top: -200px;
+}
+.icones2
+{
+    position: relative;
+    text-align: right;
+    top: -220px;
+    margin-right: 150px;
+}
+.trait
+{
+    position: relative;
+    top: -425px;
+    height: 5px;
+    background-color: white;
+    border: white;
+}
+/* .hr 
+/* {
+    color: white;
+} */
